@@ -1,6 +1,6 @@
 import React , { Component } from 'react';  // This React library allows us to write this 'html' like syntaxes inside our javascript file.
 import { CardList } from './components/card-list/card-list.component.jsx';
-import logo from './logo.svg';
+
 import './App.css';
 
 import { SearchBox } from './components/search-box/search-box.component.jsx';
